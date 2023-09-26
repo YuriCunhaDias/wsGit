@@ -1,4 +1,8 @@
-# wsGit
- Repositorio criado um workshop sobre Git
+# Piramede de *
 
-O intuito da atividade é ofender os outros
+Crie um programa que dado a quantidade de * na base da pirâmede, printe a pirâmede inteira.
+
+Exemplo:
+  *
+ * *
+* * * 
